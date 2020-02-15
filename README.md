@@ -1,6 +1,9 @@
 # the-improved-method-of-RUC-internet
 
-在github上，不下载zip文件（亲测无法解压成功），因此，正解是：单击.msi文件，点击“view raw”，即可下载该文件（ps:github下载速度不稳定）
+github下载太慢了，附上百度云链接：
+链接：https://pan.baidu.com/s/1_fQfXygVC2uhinG9utD21A 
+提取码：tyay 
+其中ps-pulse-win-5.2r5.0-b869-64bitinstaller.msi对应64位系统，另一个是32位系统，选择适合自己的下载
 
 windows下，双击安装该msi文件
 
