@@ -1,8 +1,11 @@
 # the-improved-method-of-RUC-internet
 
 github下载太慢了，附上百度云链接：
+
 链接：https://pan.baidu.com/s/1_fQfXygVC2uhinG9utD21A 
+
 提取码：tyay 
+
 其中ps-pulse-win-5.2r5.0-b869-64bitinstaller.msi对应64位系统，另一个是32位系统，选择适合自己的下载
 
 windows下，双击安装该msi文件
