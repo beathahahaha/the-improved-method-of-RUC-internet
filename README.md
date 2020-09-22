@@ -1,4 +1,4 @@
-# the-improved-method-of-RUC-internet
+# the-improved-method-of-RUC-internet（2020/09/22更新，该方法已经失效，略可惜）
 
 github下载太慢了，附上百度云链接：
 
